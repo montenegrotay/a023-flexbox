@@ -26,13 +26,19 @@ section{
 }
 
 #section-2{
+  flex-basis: 100px;
 }
 
 #section-3{
+  flex-basis: 200px;
 }
 
 #section-4{
+  flex-basis: 200px;
 }
 
 #section-5{
+  flex-basis: 100px;
+  flex-grow: 0px;
+  order: -1;
 }
